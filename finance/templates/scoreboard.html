@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Scoreboard
+{% endblock %}
+
+{% block main %}
+<table class = "table table-striped">
+ 
+   <thead>
+      <tr>
+         <th>User</th>
+         <th>Asset Under Management</th>
+      </tr>
+   </thead>
+   
+   <tbody>
+       {% for account in aum %}
+        <tr>
+            <td>{{ account.name }}</td>
+            <td>{{ account.aum | usd}}</td>
+        </tr>
+       {% endfor %}
+        
+   </tbody>
+   
+</table>
+
+{% endblock %}
