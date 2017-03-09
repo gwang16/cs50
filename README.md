@@ -10,11 +10,9 @@ As a life long learner, I’ve taken a lot of classes: BA, BS, MS, CFA, and lots
 3. It inspires you to be better than yourself, in teaching, public speaking, and coding.  
 
 Here are some projects that I worked on during the journey:
-
 1. Twitter Sentiment
 	- vizualize a twitter account's ratio of positive to negative to neutral tweets
 	- what I learned: Twitter API using Twython, Natural Language Toolkit, Flask, and Plotly
-	
 2. Stock trader
 	- create a webapp that allows a user to look up stock prices real time, buy, sell and manage a portfolio of stocks
 	- what I learned: SQLite, Jinja, Html, Css, Bootstrap, Flask, Passlib, Urllib
