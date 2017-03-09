@@ -3,9 +3,8 @@ Why you should take cs50x
 
 As a life long learner, I’ve taken a lot of classes: BA, BS, MS, CFA, and lots of youtube videos. This class is probably the best. I don't think I've ever gone through a semester worth of lectures and homeworks in a week. I list a few reasons below.
 1. The instructor is extremely well-spoken, knowledgable, and energetic. Listed by order of importance.
-2. The course itself is structured to provide a solid foundation to a wide range of computer science topics, languages, and applications. 
-    1. Quote: Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.
-3. It inspires you to be better than yourself, in teaching, public speaking, coding, and really all facets of life. 
+2. The course itself is structured to provide a solid foundation to a wide range of computer science topics, languages, and applications. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.
+3. It inspires you to be better than yourself, in teaching, public speaking, and coding.  
 
 Here are some projects that I worked on during the journey:
 1. Twitter Sentiment
